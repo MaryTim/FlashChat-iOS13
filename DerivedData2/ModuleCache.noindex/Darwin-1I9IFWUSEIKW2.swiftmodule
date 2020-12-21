@@ -1,0 +1,16 @@
+---
+path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/i386.swiftmodule'
+dependencies:
+  - mtime:           1593457028000000000
+    path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/i386.swiftmodule'
+    size:            142720
+  - mtime:           1593256240000000000
+    path:            'usr/include/Darwin.apinotes'
+    size:            1133
+    sdk_relative:    true
+  - mtime:           1593262137000000000
+    path:            'usr/lib/swift/Darwin.swiftmodule/i386.swiftinterface'
+    size:            29998
+    sdk_relative:    true
+version:         1
+...

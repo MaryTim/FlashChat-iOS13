@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "3e6cdf1e06790b39176bb0bb9ee3aa57"
+build_time: [1608547886, 638831000]
+inputs:
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/WelcomeViewController.swift": [1608288231, 786257394]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Flash Chat iOS13/Views/MessageCell.swift": [1608286773, 775377216]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Flash Chat iOS13/AppDelegate.swift": [1608284440, 313226419]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Flash Chat iOS13/Message.swift": [1607959272, 325018583]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Flash Chat iOS13/SceneDelegate.swift": [1607438906, 878509398]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/LoginViewController.swift": [1608547885, 908160884]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/ChatViewController.swift": [1608287627, 415208056]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/RegisterViewController.swift": [1608547749, 856525666]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Flash Chat iOS13/Constants.swift": [1607957445, 463614909]

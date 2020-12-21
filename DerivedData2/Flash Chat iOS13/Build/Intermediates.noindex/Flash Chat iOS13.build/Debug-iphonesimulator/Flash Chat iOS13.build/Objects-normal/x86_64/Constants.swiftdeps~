@@ -1,0 +1,137 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "K"
+provides-nominal:
+- "16Flash_Chat_iOS131KV"
+- "16Flash_Chat_iOS131KV11BrandColorsV"
+- "16Flash_Chat_iOS131KV6FStoreV"
+provides-member:
+- ["16Flash_Chat_iOS131KV", ""]
+- ["16Flash_Chat_iOS131KV11BrandColorsV", ""]
+- ["16Flash_Chat_iOS131KV6FStoreV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "K"
+- "StringLiteralType"
+depends-member:
+- ["16Flash_Chat_iOS131KV11BrandColorsV", "blue"]
+- ["16Flash_Chat_iOS131KV11BrandColorsV", "init"]
+- ["16Flash_Chat_iOS131KV11BrandColorsV", "lighBlue"]
+- ["16Flash_Chat_iOS131KV11BrandColorsV", "lightPurple"]
+- ["16Flash_Chat_iOS131KV11BrandColorsV", "purple"]
+- ["16Flash_Chat_iOS131KV6FStoreV", "bodyField"]
+- ["16Flash_Chat_iOS131KV6FStoreV", "collectionName"]
+- ["16Flash_Chat_iOS131KV6FStoreV", "dateField"]
+- ["16Flash_Chat_iOS131KV6FStoreV", "init"]
+- ["16Flash_Chat_iOS131KV6FStoreV", "senderField"]
+- ["16Flash_Chat_iOS131KV", "BrandColors"]
+- ["16Flash_Chat_iOS131KV", "FStore"]
+- ["16Flash_Chat_iOS131KV", "appName"]
+- ["16Flash_Chat_iOS131KV", "cellIdentifier"]
+- ["16Flash_Chat_iOS131KV", "cellNibName"]
+- ["16Flash_Chat_iOS131KV", "init"]
+- ["16Flash_Chat_iOS131KV", "loginSegue"]
+- ["16Flash_Chat_iOS131KV", "registerSegue"]
+depends-nominal:
+- "16Flash_Chat_iOS131KV11BrandColorsV"
+- "16Flash_Chat_iOS131KV6FStoreV"
+- "16Flash_Chat_iOS131KV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/CLTypingLabel/CLTypingLabel.framework/Modules/CLTypingLabel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FirebaseFirestore-umbrella.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/CLTypingLabel/CLTypingLabel.framework/Headers/CLTypingLabel-umbrella.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRSnapshotMetadata.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRCollectionReference.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRDocumentReference.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFirestoreSource.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRDocumentChange.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFirestore.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FirebaseFirestore.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFieldValue.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRWriteBatch.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFieldPath.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthCredential.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRVersion.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorSession.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRListenerRegistration.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRTransaction.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorAssertion.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorAssertion.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorInfo.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorInfo.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRTimestamp.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFederatedAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGameCenterAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorResolver.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorGenerator.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactor.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFirestoreSettings.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFirestoreErrors.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/CLTypingLabel/CLTypingLabel.framework/Headers/CLTypingLabel-Swift.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRGeoPoint.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRDocumentSnapshot.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRQuerySnapshot.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRQuery.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Modules/module.modulemap"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/CLTypingLabel/CLTypingLabel.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "51b172408c2dfb9e7825eed6cd1990be"

@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "2943100d235289936de53401dde7e018"
+build_time: [1608283950, 904351000]
+inputs:
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift": [1608283924, 561715467]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQUIScrollView+Additions.swift": [1608283924, 562273303]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift": [1608283924, 562591156]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQUIView+Hierarchy.swift": [1608283924, 562966320]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQUIViewController+Additions.swift": [1608283924, 563318085]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift": [1608283924, 563677927]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstantsInternal.swift": [1608283924, 571312476]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/IQKeyboardManager.swift": [1608283924, 572644168]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift": [1608283924, 573045304]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/IQTextView/IQTextView.swift": [1608283924, 573454969]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQBarButtonItem.swift": [1608283924, 573793821]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQInvocation.swift": [1608283924, 574339408]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQPreviousNextView.swift": [1608283924, 574831712]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift": [1608283924, 575268039]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift": [1608283924, 576661441]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/SourcePackages/checkouts/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQUIView+IQKeyboardToolbar.swift": [1608283924, 578275890]

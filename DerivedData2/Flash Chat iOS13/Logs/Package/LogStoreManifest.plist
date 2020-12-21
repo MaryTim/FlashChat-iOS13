@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3F5BF6A5-9E0B-43B0-A9BB-3F1FAB753D4C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>3F5BF6A5-9E0B-43B0-A9BB-3F1FAB753D4C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Swift Packages</string>
+			<key>timeStartedRecording</key>
+			<real>629995838.13043594</real>
+			<key>timeStoppedRecording</key>
+			<real>629995839.15930998</real>
+			<key>title</key>
+			<string>Resolve Swift Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>3F5BF6A5-9E0B-43B0-A9BB-3F1FAB753D4C</string>
+		</dict>
+		<key>72809DBE-C7AF-4D1A-B151-0EF5C143E57E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>72809DBE-C7AF-4D1A-B151-0EF5C143E57E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Swift Packages</string>
+			<key>timeStartedRecording</key>
+			<real>629976743.24791896</real>
+			<key>timeStoppedRecording</key>
+			<real>629976744.39128494</real>
+			<key>title</key>
+			<string>Resolve Swift Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>72809DBE-C7AF-4D1A-B151-0EF5C143E57E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

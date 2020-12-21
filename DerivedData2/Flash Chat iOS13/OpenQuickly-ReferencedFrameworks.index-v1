@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>GoogleMobileAds</string>
+	<string>CLTypingLabel</string>
+	<string>FirebasePerformance</string>
+	<string>FirebaseDynamicLinks</string>
+	<string>SafariServices</string>
+	<string>objc</string>
+	<string>FirebaseInstallations</string>
+	<string>GoogleUtilities</string>
+	<string>FirebaseAuth</string>
+	<string>Firebase</string>
+	<string>IQKeyboardManager</string>
+	<string>GoogleDataTransport</string>
+	<string>FirebaseInAppMessaging</string>
+	<string>FirebaseCore</string>
+	<string>FirebaseMessaging</string>
+	<string>CoreFoundation</string>
+	<string>FirebaseCrashlytics</string>
+	<string>sys</string>
+	<string>GTMSessionFetcher</string>
+	<string>CoreTelephony</string>
+	<string>nanopb</string>
+	<string>FirebaseInstanceID</string>
+	<string>dispatch</string>
+	<string>FirebaseFirestore</string>
+	<string>FirebaseDatabase</string>
+	<string>FBLPromises</string>
+	<string>SwiftUI</string>
+	<string>FirebaseRemoteConfig</string>
+	<string>WebKit</string>
+	<string>FirebaseMLCommon</string>
+	<string>Crashlytics</string>
+	<string>FirebaseMLVision</string>
+	<string>XCTest</string>
+	<string>PackageDescription</string>
+	<string>WatchKit</string>
+	<string>Foundation</string>
+	<string>QuartzCore</string>
+	<string>Security</string>
+	<string>Fabric</string>
+	<string>AppKit</string>
+	<string>FirebaseMLModelInterpreter</string>
+	<string>IQDropDownTextField</string>
+	<string>GameKit</string>
+	<string>netinet</string>
+	<string>IQKeyboardManagerSwift</string>
+	<string>FirebaseStorage</string>
+	<string>SystemConfiguration</string>
+	<string>CoreGraphics</string>
+	<string>FirebaseAnalytics</string>
+	<string>GTMSessionFetcherCore</string>
+	<string>FirebaseAppDistribution</string>
+	<string>UIKit</string>
+	<string>FirebaseFunctions</string>
+</array>
+</plist>

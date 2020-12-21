@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2AC2D295-322E-44B9-9FE7-FACDC09FB091</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2AC2D295-322E-44B9-9FE7-FACDC09FB091.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>630240065.47420096</real>
+			<key>timeStoppedRecording</key>
+			<real>630240074.700194</real>
+			<key>title</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>2AC2D295-322E-44B9-9FE7-FACDC09FB091</string>
+		</dict>
+		<key>336F101B-7E4F-4E22-A98A-D6F1565FCC6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>336F101B-7E4F-4E22-A98A-D6F1565FCC6E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>630240409.85612595</real>
+			<key>timeStoppedRecording</key>
+			<real>630240420.89627194</real>
+			<key>title</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>336F101B-7E4F-4E22-A98A-D6F1565FCC6E</string>
+		</dict>
+		<key>91E393FD-F315-453B-AC2B-C72602D65B77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>91E393FD-F315-453B-AC2B-C72602D65B77.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>630240685.94147599</real>
+			<key>timeStoppedRecording</key>
+			<real>630240689.82407403</real>
+			<key>title</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>91E393FD-F315-453B-AC2B-C72602D65B77</string>
+		</dict>
+		<key>C6C84D5F-20E2-442F-BA06-111319309ECE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C6C84D5F-20E2-442F-BA06-111319309ECE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>630240490.33970904</real>
+			<key>timeStoppedRecording</key>
+			<real>630240495.02980006</real>
+			<key>title</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>C6C84D5F-20E2-442F-BA06-111319309ECE</string>
+		</dict>
+		<key>DC5B86C6-DDE1-4653-A794-DB0BEB91798A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC5B86C6-DDE1-4653-A794-DB0BEB91798A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flash Chat iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flash Chat iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>629981031.80117095</real>
+			<key>timeStoppedRecording</key>
+			<real>629981044.37411594</real>
+			<key>title</key>
+			<string>Build Flash Chat iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>DC5B86C6-DDE1-4653-A794-DB0BEB91798A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

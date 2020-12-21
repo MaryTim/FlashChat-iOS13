@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DDE8054E9BBE2B69290C6C8E91A7A885C058F62F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF461CAADB13706454B17F2BB50F488BBAD743E5" : 0,
+    "DDE8054E9BBE2B69290C6C8E91A7A885C058F62F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8034BC01-75D8-41B4-B6D8-8FA82F6108DF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF461CAADB13706454B17F2BB50F488BBAD743E5" : "Flash-Chat-iOS13\/DerivedData2\/Flash%20Chat%20iOS13\/SourcePackages\/checkouts\/IQKeyboardManager\/",
+    "DDE8054E9BBE2B69290C6C8E91A7A885C058F62F" : "Flash-Chat-iOS13\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Flash Chat iOS13",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Flash Chat iOS13.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/appbrewery\/Flash-Chat-iOS13.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DDE8054E9BBE2B69290C6C8E91A7A885C058F62F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hackiftekhar\/IQKeyboardManager",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF461CAADB13706454B17F2BB50F488BBAD743E5"
+    }
+  ]
+}

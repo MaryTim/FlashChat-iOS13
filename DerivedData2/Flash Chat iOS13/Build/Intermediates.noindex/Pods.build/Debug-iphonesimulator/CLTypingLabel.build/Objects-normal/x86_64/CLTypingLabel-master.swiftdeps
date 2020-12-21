@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "a75098f25bccd7c5a7c6a594d60cd941"
+build_time: [1607688188, 993224000]
+inputs:
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Pods/CLTypingLabel/Pod/Classes/CLTypingLabel.swift": [1607538572, 357460392]

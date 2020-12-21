@@ -1,0 +1,388 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WelcomeViewController"
+provides-nominal:
+- "16Flash_Chat_iOS1321WelcomeViewControllerC"
+provides-member:
+- ["16Flash_Chat_iOS1321WelcomeViewControllerC", ""]
+provides-dynamic-lookup:
+- "titleLabel"
+- "viewDidLoad"
+- "viewWillAppear"
+- "viewWillDisappear"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CLTypingLabel"
+- !private "K"
+- "UIViewController"
+- "WelcomeViewController"
+depends-member:
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["13CLTypingLabelAAC", "text"]
+- !private ["s7CVarArgP", "K"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "isNavigationBarHidden"]
+- !private ["s7CVarArgP", "navigationController"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "titleLabel"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "viewWillAppear"]
+- !private ["s7CVarArgP", "viewWillDisappear"]
+- !private ["s28CustomDebugStringConvertibleP", "K"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "isNavigationBarHidden"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "titleLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "viewWillAppear"]
+- !private ["s28CustomDebugStringConvertibleP", "viewWillDisappear"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "K"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "isNavigationBarHidden"]
+- !private ["s23CustomStringConvertibleP", "navigationController"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "titleLabel"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "viewWillAppear"]
+- !private ["s23CustomStringConvertibleP", "viewWillDisappear"]
+- !private ["Se", "text"]
+- !private ["SE", "text"]
+- !private ["SQ", "K"]
+- ["SQ", ""]
+- !private ["SQ", "isNavigationBarHidden"]
+- !private ["SQ", "navigationController"]
+- !private ["SQ", "text"]
+- !private ["SQ", "titleLabel"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "viewWillAppear"]
+- !private ["SQ", "viewWillDisappear"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["SH", "K"]
+- ["SH", ""]
+- !private ["SH", "isNavigationBarHidden"]
+- !private ["SH", "navigationController"]
+- !private ["SH", "text"]
+- !private ["SH", "titleLabel"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "viewWillAppear"]
+- !private ["SH", "viewWillDisappear"]
+- !private ["16Flash_Chat_iOS131KV", "appName"]
+- !private ["So8NSCodingP", "K"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "isNavigationBarHidden"]
+- !private ["So8NSCodingP", "navigationController"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "titleLabel"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "viewWillAppear"]
+- !private ["So8NSCodingP", "viewWillDisappear"]
+- !private ["So26NSExtensionRequestHandlingP", "K"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "isNavigationBarHidden"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "titleLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "viewWillAppear"]
+- !private ["So26NSExtensionRequestHandlingP", "viewWillDisappear"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CLTypingLabel"]
+- !private ["So8NSObjectC", "K"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isNavigationBarHidden"]
+- !private ["So8NSObjectC", "navigationController"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "titleLabel"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewWillAppear"]
+- ["So8NSObjectC", "viewWillDisappear"]
+- !private ["So8NSObjectP", "K"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "isNavigationBarHidden"]
+- !private ["So8NSObjectP", "navigationController"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "titleLabel"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "viewWillAppear"]
+- !private ["So8NSObjectP", "viewWillDisappear"]
+- !private ["Sq", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "K"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "isNavigationBarHidden"]
+- !private ["So21UIAppearanceContainerP", "navigationController"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "titleLabel"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "viewWillAppear"]
+- !private ["So21UIAppearanceContainerP", "viewWillDisappear"]
+- !private ["So18UIContentContainerP", "K"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "isNavigationBarHidden"]
+- !private ["So18UIContentContainerP", "navigationController"]
+- !private ["So18UIContentContainerP", "titleLabel"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "viewWillAppear"]
+- !private ["So18UIContentContainerP", "viewWillDisappear"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "K"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "isNavigationBarHidden"]
+- !private ["So18UIFocusEnvironmentP", "navigationController"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "titleLabel"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "viewWillAppear"]
+- !private ["So18UIFocusEnvironmentP", "viewWillDisappear"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So22UINavigationControllerC", "isNavigationBarHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "K"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "isNavigationBarHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewWillAppear"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewWillDisappear"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "CLTypingLabel"]
+- !private ["So11UIResponderC", "K"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isNavigationBarHidden"]
+- !private ["So11UIResponderC", "navigationController"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "titleLabel"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewWillAppear"]
+- ["So11UIResponderC", "viewWillDisappear"]
+- !private ["So30UIResponderStandardEditActionsP", "K"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "isNavigationBarHidden"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "titleLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "viewWillAppear"]
+- !private ["So30UIResponderStandardEditActionsP", "viewWillDisappear"]
+- !private ["So16UIStateRestoringP", "K"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "isNavigationBarHidden"]
+- !private ["So16UIStateRestoringP", "navigationController"]
+- !private ["So16UIStateRestoringP", "titleLabel"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "viewWillAppear"]
+- !private ["So16UIStateRestoringP", "viewWillDisappear"]
+- !private ["So18UITraitEnvironmentP", "K"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "isNavigationBarHidden"]
+- !private ["So18UITraitEnvironmentP", "navigationController"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "titleLabel"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "viewWillAppear"]
+- !private ["So18UITraitEnvironmentP", "viewWillDisappear"]
+- !private ["So23UIUserActivityRestoringP", "K"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "isNavigationBarHidden"]
+- !private ["So23UIUserActivityRestoringP", "navigationController"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "titleLabel"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "viewWillAppear"]
+- !private ["So23UIUserActivityRestoringP", "viewWillDisappear"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "CLTypingLabel"]
+- !private ["So16UIViewControllerC", "K"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "isNavigationBarHidden"]
+- !private ["So16UIViewControllerC", "navigationController"]
+- ["So16UIViewControllerC", "titleLabel"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewWillAppear"]
+- ["So16UIViewControllerC", "viewWillDisappear"]
+- ["16Flash_Chat_iOS1321WelcomeViewControllerC", "Bool"]
+- ["16Flash_Chat_iOS1321WelcomeViewControllerC", "CLTypingLabel"]
+- !private ["16Flash_Chat_iOS1321WelcomeViewControllerC", "K"]
+- ["16Flash_Chat_iOS1321WelcomeViewControllerC", "deinit"]
+- ["16Flash_Chat_iOS1321WelcomeViewControllerC", "init"]
+- !private ["16Flash_Chat_iOS1321WelcomeViewControllerC", "navigationController"]
+- ["16Flash_Chat_iOS1321WelcomeViewControllerC", "titleLabel"]
+- ["16Flash_Chat_iOS1321WelcomeViewControllerC", "viewDidLoad"]
+- ["16Flash_Chat_iOS1321WelcomeViewControllerC", "viewWillAppear"]
+- ["16Flash_Chat_iOS1321WelcomeViewControllerC", "viewWillDisappear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "K"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isNavigationBarHidden"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewWillAppear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewWillDisappear"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "K"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isNavigationBarHidden"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "titleLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewWillAppear"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewWillDisappear"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- !private "13CLTypingLabelAAC"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "16Flash_Chat_iOS131KV"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "16Flash_Chat_iOS1321WelcomeViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/CLTypingLabel/CLTypingLabel.framework/Modules/CLTypingLabel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FirebaseFirestore-umbrella.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/CLTypingLabel/CLTypingLabel.framework/Headers/CLTypingLabel-umbrella.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRSnapshotMetadata.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRCollectionReference.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRDocumentReference.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFirestoreSource.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRDocumentChange.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFirestore.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FirebaseFirestore.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFieldValue.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRWriteBatch.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFieldPath.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthCredential.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRVersion.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorSession.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRListenerRegistration.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRTransaction.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorAssertion.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorAssertion.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorInfo.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorInfo.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRTimestamp.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFederatedAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGameCenterAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorResolver.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorGenerator.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactor.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFirestoreSettings.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRFirestoreErrors.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/CLTypingLabel/CLTypingLabel.framework/Headers/CLTypingLabel-Swift.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRGeoPoint.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRDocumentSnapshot.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRQuerySnapshot.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Headers/FIRQuery.h"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Modules/module.modulemap"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/mariabudkevich/Desktop/MASHA/Developer/Flash-Chat-iOS13/DerivedData2/Flash Chat iOS13/Build/Products/Debug-iphonesimulator/CLTypingLabel/CLTypingLabel.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "19cbe75dea707d0852ef6202e139cf94"
